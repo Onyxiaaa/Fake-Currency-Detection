@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>background_login.jpg</file>
+    <file>background 3.jpg</file>
+    <file>logo_itenas.png</file>
+  </qresource>
+</RCC>
